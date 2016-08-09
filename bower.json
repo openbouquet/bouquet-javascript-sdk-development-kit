@@ -15,14 +15,14 @@
     "tests"
   ],
   "dependencies": {
-    "squid_api": "https://github.com/openbouquet/bouquet-javascript-sdk.git#3.7.0",
-    "squid_api_core_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-core-widgets.git#3.0.1",
-    "squid_api_data_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-data-widgets.git#5.2.2",
+    "squid_api": "https://github.com/openbouquet/bouquet-javascript-sdk.git#3.7.2",
+    "squid_api_core_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-core-widgets.git#3.0.5",
+    "squid_api_data_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-data-widgets.git#5.2.7",
     "squid_api_filters_widget": "https://github.com/openbouquet/bouquet-javascript-sdk-filtering-widgets.git#3.7.2",
-    "squid_api_admin_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-admin-widgets.git#3.9.8"
+    "squid_api_admin_widgets": "https://github.com/openbouquet/bouquet-javascript-sdk-admin-widgets.git#4.0.7"
   },
   "resolutions": {
-    "squid_api": "3.7.0",
-    "jquery": "2.0.3"
+    "squid_api": "3.7.2",
+    "jquery": "2.1.3"
   }
 }
